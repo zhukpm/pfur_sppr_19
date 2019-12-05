@@ -1,0 +1,17 @@
+# IDEA folder
+.idea/
+
+# Virtual environment
+.venv/
+
+# Logs
+.logs/
+
+# Temporary data files
+.data_temp/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Secret folder
+secret_folder/
