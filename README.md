@@ -3,6 +3,7 @@
 Лекции (частично) будут располагаться в папке **lections**
 ## Практика
 Примеры работы с модулями, анализа, работы в среде Jupyter Notebook можно найти в папке **notebooks**:
+- [jupyter](./notebooks/jupyter-notebook-commands.ipynb)
 - [numpy](./notebooks/numpy.ipynb)
 
 Данные, используемые в анализе - в папке **data**
