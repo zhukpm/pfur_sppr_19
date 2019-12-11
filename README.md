@@ -14,7 +14,10 @@
 - [Titanic 1](./notebooks/titanic-example.ipynb)
 - [Titanic 2](./notebooks/pipelines-column-transformer.ipynb)
 
-Данные, используемые в анализе - в папке **data**
+Данные, используемые в анализе - в папке **data**. Также можно загрузить "игрушечные" датасеты прямо 
+из sklearn: [toy-datasets](./notebooks/toy-datasets.ipynb). 
+
+
 ## Домашние работы
 Тут будет информация по домашним работам
 ## Полезные ссылки, почитать
