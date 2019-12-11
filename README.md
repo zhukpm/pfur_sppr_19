@@ -5,6 +5,14 @@
 Примеры работы с модулями, анализа, работы в среде Jupyter Notebook можно найти в папке **notebooks**:
 - [jupyter](./notebooks/jupyter-notebook-commands.ipynb)
 - [numpy](./notebooks/numpy.ipynb)
+- [pandas](./notebooks/pandas.ipynb)
+- [Matplotlib & Seaborn](./notebooks/matplotlib-seaborn.ipynb)
+- [Imputation & Transformation](./notebooks/imputation-transformation.ipynb)
+- [Pipelines & Column Transformer](./notebooks/pipelines-column-transformer.ipynb)
+
+Примеры решения задач:
+- [Titanic 1](./notebooks/titanic-example.ipynb)
+- [Titanic 2](./notebooks/pipelines-column-transformer.ipynb)
 
 Данные, используемые в анализе - в папке **data**
 ## Домашние работы
